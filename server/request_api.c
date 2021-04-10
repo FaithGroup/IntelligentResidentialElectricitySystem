@@ -1,5 +1,5 @@
 /**
- * \copyright Copyright (c) 1999-2020,西安交大捷普网络科技有限公司
+ * \copyright 
  * 
  * \file write_log.c
  * \author xiaoke
